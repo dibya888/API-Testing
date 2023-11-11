@@ -1,6 +1,6 @@
 ![Postman Logo](https://s5.gifyu.com/images/SR2zi.png)
 
-API Testing
+__API Testing__
 
 API: https://restful-booker.herokuapp.com/booking/
 
