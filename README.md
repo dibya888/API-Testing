@@ -4,13 +4,13 @@ __API Testing__
 
 API: https://restful-booker.herokuapp.com/booking/
 
-Content:  
+__Content:__  
 POST  
 GET  
 PUT   
 PATCH  
 DELETE  
 
-Tests:   
+__Tests:__   
 Checks if the request executed successfully  
 Checks if the request executed successfully in time  
